@@ -6,6 +6,7 @@ import 'package:untitled4/pages/search_view/pages/search_view.dart';
 import 'package:untitled4/pages/splash/pages/splash_view.dart';
 import 'package:untitled4/pages/watchlist_view/pages/watchlist_view.dart';
 
+//jjh
 import 'core/theme_manager/application_theme_managerr.dart';
 GlobalKey<NavigatorState>navigatorKey=GlobalKey<NavigatorState>();
 void main() {
